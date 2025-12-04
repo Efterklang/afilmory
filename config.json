@@ -1,0 +1,29 @@
+{
+  "name": "GnixAij's Gallery",
+  "title": "GnixAij's Gallery",
+  "description": "Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.",
+  "url": "https://gallery.vluv.space",
+  "accentColor": "#b4befe",
+  "author": {
+    "name": "GnixAij",
+    "url": "https://vluv.space",
+    "avatar": "https://assets.vluv.space/avatar.webp"
+  },
+  "social": {
+    "github": "https://github.com/Efterklang",
+    "twitter": "https://x.com/GnixAij_Oag"
+  },
+  "feed": {
+    "folo": {
+      "challenge": {
+        "feedId": "",
+        "userId": ""
+      }
+    }
+  },
+  "map": [
+    "maplibre"
+  ],
+  "mapStyle": "builtin",
+  "mapProjection": "mercator"
+}
