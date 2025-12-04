@@ -1,0 +1,2284 @@
+{
+  "version": "v10",
+  "data": [
+    {
+      "id": "LED建筑",
+      "format": "HEIC",
+      "title": "LED建筑",
+      "description": "",
+      "dateTaken": "2025-07-01T11:55:32.206Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/LED建筑.heic",
+      "thumbnailUrl": "/thumbnails/LED建筑.jpg",
+      "thumbHash": "54070e0c80366677878777a07855fa7c5ff849",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/LED建筑.heic",
+      "lastModified": "2025-12-04T13:50:41.000Z",
+      "size": 973012,
+      "digest": "62932f58b108afafd9315d92fab53a991dd51f3038bec65ae9dbdbb4f6643eb5",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:55:32.206+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/50",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 160,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 1.68,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/50",
+        "LightValue": 6.7,
+        "GPSAltitude": 27,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.321576,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.698019,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 31,
+        "contrast": 50,
+        "shadowRatio": 0.63,
+        "highlightRatio": 0.13
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "月光码头",
+      "format": "HEIC",
+      "title": "月光码头",
+      "description": "",
+      "dateTaken": "2025-07-01T11:51:19.981Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/月光码头.heic",
+      "thumbnailUrl": "/thumbnails/月光码头.jpg",
+      "thumbHash": "99180a14822b91768078987388870f65f52056",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/月光码头.heic",
+      "lastModified": "2025-12-04T13:50:41.000Z",
+      "size": 1421436,
+      "digest": "7d8ecec29849206e2b14eac64aee91159e3404cd8f338f55c6863ba32a1c8cfd",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:51:19.981+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/50",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 64,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 2.83,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/50",
+        "LightValue": 8,
+        "GPSAltitude": 20,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.323132,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.700684,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 42,
+        "shadowRatio": 0.48,
+        "highlightRatio": 0.12
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "金鸡湖巨人雕塑",
+      "format": "HEIC",
+      "title": "金鸡湖巨人雕塑",
+      "description": "",
+      "dateTaken": "2025-07-01T11:48:28.281Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/金鸡湖巨人雕塑.heic",
+      "thumbnailUrl": "/thumbnails/金鸡湖巨人雕塑.jpg",
+      "thumbHash": "51180a1c024d866906a5638898585c8bb0b408",
+      "width": 2252,
+      "height": 4000,
+      "aspectRatio": 0.563,
+      "s3Key": "photos/金鸡湖/金鸡湖巨人雕塑.heic",
+      "lastModified": "2025-12-04T13:50:43.000Z",
+      "size": 1470472,
+      "digest": "751e68ce67848400dd3e57e8f9bc57acf9bab9f1efaf83eaf3308f1ed7bf61ba",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:48:28.281+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 6,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/44",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 400,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 0.37,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/44",
+        "LightValue": 5.1,
+        "GPSAltitude": 19,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.32214,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.701986,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 27,
+        "contrast": 42,
+        "shadowRatio": 0.78,
+        "highlightRatio": 0.08
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "东方之门",
+      "format": "HEIC",
+      "title": "东方之门",
+      "description": "",
+      "dateTaken": "2025-07-01T11:43:46.169Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/东方之门.heic",
+      "thumbnailUrl": "/thumbnails/东方之门.jpg",
+      "thumbHash": "1008060c823776777c88887089798775605807",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/东方之门.heic",
+      "lastModified": "2025-12-04T13:50:41.000Z",
+      "size": 949705,
+      "digest": "a7bf1ccf242b945735e537a951b9089b950ac6cfa40d28b745266becc8528f9c",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:43:46.169+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/33",
+        "FNumber": 2.4,
+        "ExposureProgram": "Program AE",
+        "ISO": 1250,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 2.4,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.4,
+        "Flash": "No Flash",
+        "FocalLength": "7.0 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "69 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 2.4,
+        "ScaleFactor35efl": 9.9,
+        "ShutterSpeed": "1/33",
+        "LightValue": 3.9,
+        "GPSAltitude": 20,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.320431,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.704092,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 26,
+        "contrast": 29,
+        "shadowRatio": 0.88,
+        "highlightRatio": 0.04
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "湖西",
+      "format": "HEIC",
+      "title": "湖西",
+      "description": "",
+      "dateTaken": "2025-07-01T11:41:46.443Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/湖西.heic",
+      "thumbnailUrl": "/thumbnails/湖西.jpg",
+      "thumbHash": "90f70914824487787f8777838875a880700928",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/湖西.heic",
+      "lastModified": "2025-12-04T13:50:42.000Z",
+      "size": 1107445,
+      "digest": "023d4a626266654d97e31631fec6e3a5e5cfd9e3518f43854e4a14febb2d13f6",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:41:46.443+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/25",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 1600,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/25",
+        "LightValue": 2.3,
+        "GPSAltitude": 15,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.319876,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.703826,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 25,
+        "contrast": 30,
+        "shadowRatio": 0.71,
+        "highlightRatio": 0.01
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "飞翔2",
+      "format": "HEIC",
+      "title": "飞翔2",
+      "description": "",
+      "dateTaken": "2025-07-01T11:20:22.061Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/飞翔2.heic",
+      "thumbnailUrl": "/thumbnails/飞翔2.jpg",
+      "thumbHash": "e4f70914845f86687d787782877a7950a80795",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/飞翔2.heic",
+      "lastModified": "2025-12-04T13:50:43.000Z",
+      "size": 575539,
+      "digest": "f8cb5c2506e322522f131a44e29fa0e6235d181ac6dfca04448bc183c762f35a",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:20:22.061+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/100",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 160,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 2.81,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/100",
+        "LightValue": 7.7,
+        "GPSAltitude": 22,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.317643,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.70726,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 56,
+        "contrast": 40,
+        "shadowRatio": 0.16,
+        "highlightRatio": 0.4
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "苏州之眼",
+      "format": "HEIC",
+      "title": "苏州之眼",
+      "description": "",
+      "dateTaken": "2025-07-01T11:17:14.613Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/苏州之眼.heic",
+      "thumbnailUrl": "/thumbnails/苏州之眼.jpg",
+      "thumbHash": "e0d5050c80408688859389928a98a3940f72f9",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/苏州之眼.heic",
+      "lastModified": "2025-12-04T13:50:41.000Z",
+      "size": 1114554,
+      "digest": "4f5c4d410b772ee34082207313c67fe24c22c199d6ca59f946b2dfee737b6320",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:17:14.613+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/100",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 160,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 2.53,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.2,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/100",
+        "LightValue": 7.7,
+        "GPSAltitude": 26,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.31679,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.708924,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 46,
+        "contrast": 27,
+        "shadowRatio": 0.16,
+        "highlightRatio": 0.07
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "金鸡湖号",
+      "format": "HEIC",
+      "title": "金鸡湖号",
+      "description": "",
+      "dateTaken": "2025-07-01T11:15:24.875Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/金鸡湖号.heic",
+      "thumbnailUrl": "/thumbnails/金鸡湖号.jpg",
+      "thumbHash": "64b5091c825978877f78887878877870822707",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/金鸡湖号.heic",
+      "lastModified": "2025-12-04T13:50:43.000Z",
+      "size": 847091,
+      "digest": "c1eebd402132875d2e8485ca96cce8436e9a898b99813de8541372377d1b9f7e",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:15:24.875+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/50",
+        "FNumber": 2.4,
+        "ExposureProgram": "Program AE",
+        "ISO": 250,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 2.4,
+        "BrightnessValue": 1.67,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.4,
+        "Flash": "No Flash",
+        "FocalLength": "7.0 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "69 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 2.4,
+        "ScaleFactor35efl": 9.9,
+        "ShutterSpeed": "1/50",
+        "LightValue": 6.8,
+        "GPSAltitude": 23,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.316117,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.709398,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 23,
+        "shadowRatio": 0.07,
+        "highlightRatio": 0.06
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "苏州之眼1",
+      "format": "HEIC",
+      "title": "苏州之眼1",
+      "description": "",
+      "dateTaken": "2025-07-01T11:14:52.848Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/苏州之眼1.heic",
+      "thumbnailUrl": "/thumbnails/苏州之眼1.jpg",
+      "thumbHash": "66f7091402280a986796877887777680b80434",
+      "width": 2252,
+      "height": 4000,
+      "aspectRatio": 0.563,
+      "s3Key": "photos/金鸡湖/苏州之眼1.heic",
+      "lastModified": "2025-12-04T13:50:42.000Z",
+      "size": 901413,
+      "digest": "99fa4d7e63654cbd4675cf0496fe73a342c69beb9d29111e2748169223246b9c",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:14:52.848+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 6,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/50",
+        "FNumber": 2.4,
+        "ExposureProgram": "Program AE",
+        "ISO": 64,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 2.4,
+        "BrightnessValue": 3.91,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "7.0 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "69 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 2.4,
+        "ScaleFactor35efl": 9.9,
+        "ShutterSpeed": "1/50",
+        "LightValue": 8.8,
+        "GPSAltitude": 21,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.316203,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.709179,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 58,
+        "contrast": 31,
+        "shadowRatio": 0.05,
+        "highlightRatio": 0.34
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "苏州之眼2",
+      "format": "HEIC",
+      "title": "苏州之眼2",
+      "description": "",
+      "dateTaken": "2025-07-01T11:14:42.869Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/苏州之眼2.heic",
+      "thumbnailUrl": "/thumbnails/苏州之眼2.jpg",
+      "thumbHash": "5cf711140287a87608888988678877806a0587",
+      "width": 2252,
+      "height": 4000,
+      "aspectRatio": 0.563,
+      "s3Key": "photos/金鸡湖/苏州之眼2.heic",
+      "lastModified": "2025-12-04T13:50:42.000Z",
+      "size": 1299557,
+      "digest": "5f05fb7562d96dade64aa95949b1edf467a18276ea9afac04e560a4b1e658ccc",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:14:42.869+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 6,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/180",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 200,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 3.04,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.2,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/180",
+        "LightValue": 8.2,
+        "GPSAltitude": 21,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.316203,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.709179,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 43,
+        "contrast": 44,
+        "shadowRatio": 0.36,
+        "highlightRatio": 0.18
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "龙舟",
+      "format": "HEIC",
+      "title": "龙舟",
+      "description": "",
+      "dateTaken": "2025-07-01T11:04:46.662Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/龙舟.heic",
+      "thumbnailUrl": "/thumbnails/龙舟.jpg",
+      "thumbHash": "26e7091c827177788f7878718888a470350a67",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/龙舟.heic",
+      "lastModified": "2025-12-04T13:50:44.000Z",
+      "size": 665524,
+      "digest": "480aabf979ee9c9fb355536fa532ac947d6f83ab5eeb49cb298e639c8f9c00ad",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:04:46.662+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/180",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 64,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 4.76,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/180",
+        "LightValue": 9.8,
+        "GPSAltitude": 17,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.319805,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.704561,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 58,
+        "contrast": 32,
+        "shadowRatio": 0.11,
+        "highlightRatio": 0.34
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "金鸡湖2",
+      "format": "HEIC",
+      "title": "金鸡湖2",
+      "description": "",
+      "dateTaken": "2025-07-01T11:04:45.283Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/金鸡湖2.heic",
+      "thumbnailUrl": "/thumbnails/金鸡湖2.jpg",
+      "thumbHash": "e7e60924847177788b787870888b9480480a98",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/金鸡湖2.heic",
+      "lastModified": "2025-12-04T13:50:41.000Z",
+      "size": 480818,
+      "digest": "9f776f517148b61f345d05893912ac80702e083f79614ccc0136795a6646a6ce",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:04:45.283+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/180",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 64,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 4.79,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/180",
+        "LightValue": 9.8,
+        "GPSAltitude": 16,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.319807,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.704562,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 60,
+        "contrast": 28,
+        "shadowRatio": 0.07,
+        "highlightRatio": 0.34
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "金鸡湖1",
+      "format": "HEIC",
+      "title": "金鸡湖1",
+      "description": "",
+      "dateTaken": "2025-07-01T11:04:37.622Z",
+      "tags": [
+        "金鸡湖"
+      ],
+      "originalUrl": "memories.vluv.space/photos/金鸡湖/金鸡湖1.heic",
+      "thumbnailUrl": "/thumbnails/金鸡湖1.jpg",
+      "thumbHash": "e1f71114827487778f8777777878a056037a35",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/金鸡湖/金鸡湖1.heic",
+      "lastModified": "2025-12-04T13:50:43.000Z",
+      "size": 931375,
+      "digest": "cfd5dd1e844f3d3a1425ac5eb7c913c8fd3a58e7473c4da9374c252808461fe7",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T19:04:37.622+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/180",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 64,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 4.82,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/180",
+        "LightValue": 9.8,
+        "GPSAltitude": 15,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.319802,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.704562,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 45,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.29
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "留园牌匾",
+      "format": "HEIC",
+      "title": "留园牌匾",
+      "description": "",
+      "dateTaken": "2025-07-01T09:33:19.658Z",
+      "tags": [
+        "留园"
+      ],
+      "originalUrl": "memories.vluv.space/photos/留园/留园牌匾.heic",
+      "thumbnailUrl": "/thumbnails/留园牌匾.jpg",
+      "thumbHash": "57f81124829f9778758887787777889ff9eb5b",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/留园/留园牌匾.heic",
+      "lastModified": "2025-12-04T13:50:45.000Z",
+      "size": 1720126,
+      "digest": "1f2e85eafd842a9b623bb6810ec48e093b2f53483172e20581f219caf1e0dc6e",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T17:33:19.658+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/476",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 25,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 7.6,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/476",
+        "LightValue": 12.6,
+        "GPSAltitude": 0,
+        "GPSAltitudeRef": "Below Sea Level",
+        "GPSLatitude": 31.31742,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.588438,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 38,
+        "contrast": 48,
+        "shadowRatio": 0.46,
+        "highlightRatio": 0.12
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "留园墙面",
+      "format": "HEIC",
+      "title": "留园墙面",
+      "description": "",
+      "dateTaken": "2025-07-01T09:32:42.846Z",
+      "tags": [
+        "留园"
+      ],
+      "originalUrl": "memories.vluv.space/photos/留园/留园墙面.heic",
+      "thumbnailUrl": "/thumbnails/留园墙面.jpg",
+      "thumbHash": "1be80d1582606c787a8687a5679878974f8cbc0b45",
+      "width": 2888,
+      "height": 2252,
+      "aspectRatio": 1.2824156305506216,
+      "s3Key": "photos/留园/留园墙面.heic",
+      "lastModified": "2025-12-04T13:50:45.000Z",
+      "size": 1338393,
+      "digest": "fdcbcfebae4698bb468c170951b22e2c4f986d6035d5473b805c540607d1b42b",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T17:32:42.846+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/101",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 200,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 2.47,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/101",
+        "LightValue": 7.4,
+        "GPSAltitude": 8,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.317521,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.588428,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 43,
+        "contrast": 50,
+        "shadowRatio": 0.46,
+        "highlightRatio": 0.24
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "留园船",
+      "format": "HEIC",
+      "title": "留园船",
+      "description": "",
+      "dateTaken": "2025-07-01T09:31:36.170Z",
+      "tags": [
+        "留园"
+      ],
+      "originalUrl": "memories.vluv.space/photos/留园/留园船.heic",
+      "thumbnailUrl": "/thumbnails/留园船.jpg",
+      "thumbHash": "18f8090c826969978a9577807752493d9f3106",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/留园/留园船.heic",
+      "lastModified": "2025-12-04T13:50:45.000Z",
+      "size": 2467952,
+      "digest": "943dd8520bef3baaec50deb2ffff97944167edade7ada37a07e0feb8db9f0df5",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T17:31:36.170+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/182",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 50,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 5.19,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/182",
+        "LightValue": 10.2,
+        "GPSAltitude": 20,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.317622,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.588334,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 38,
+        "contrast": 48,
+        "shadowRatio": 0.48,
+        "highlightRatio": 0.16
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "睡莲",
+      "format": "HEIC",
+      "title": "睡莲",
+      "description": "",
+      "dateTaken": "2025-07-01T09:31:23.959Z",
+      "tags": [
+        "留园"
+      ],
+      "originalUrl": "memories.vluv.space/photos/留园/睡莲.heic",
+      "thumbnailUrl": "/thumbnails/睡莲.jpg",
+      "thumbHash": "d8d8051c84863a76f3a9882065db769580a8f5",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/留园/睡莲.heic",
+      "lastModified": "2025-12-04T13:50:45.000Z",
+      "size": 888024,
+      "digest": "0912255868580fc62121134e3ceb32a53f45649233cd31fe638ded7c85feecdc",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T17:31:23.959+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/50",
+        "FNumber": 2.4,
+        "ExposureProgram": "Program AE",
+        "ISO": 40,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 2.4,
+        "BrightnessValue": 4.67,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "7.0 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "69 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 2.4,
+        "ScaleFactor35efl": 9.9,
+        "ShutterSpeed": "1/50",
+        "LightValue": 9.5,
+        "GPSAltitude": 20,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.317622,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.58833,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 47,
+        "shadowRatio": 0.4,
+        "highlightRatio": 0.18
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "留园花窗",
+      "format": "HEIC",
+      "title": "留园花窗",
+      "description": "",
+      "dateTaken": "2025-07-01T09:28:07.191Z",
+      "tags": [
+        "留园"
+      ],
+      "originalUrl": "memories.vluv.space/photos/留园/留园花窗.heic",
+      "thumbnailUrl": "/thumbnails/留园花窗.jpg",
+      "thumbHash": "1ae8050c044aa7673798708828a766748f2af8",
+      "width": 2252,
+      "height": 4000,
+      "aspectRatio": 0.563,
+      "s3Key": "photos/留园/留园花窗.heic",
+      "lastModified": "2025-12-04T13:50:45.000Z",
+      "size": 1816336,
+      "digest": "7b5c1b6e8de4d50977273386c24932fa8cfb2137307f0ca1cf1e3c6dc93c6874",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T17:28:07.191+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 6,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/50",
+        "FNumber": 2.4,
+        "ExposureProgram": "Program AE",
+        "ISO": 250,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 2.4,
+        "BrightnessValue": 1.56,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "7.0 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "69 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 2.4,
+        "ScaleFactor35efl": 9.9,
+        "ShutterSpeed": "1/50",
+        "LightValue": 6.8,
+        "GPSAltitude": 17,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.317936,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.588435,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 47,
+        "shadowRatio": 0.48,
+        "highlightRatio": 0.21
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "留园3",
+      "format": "HEIC",
+      "title": "留园3",
+      "description": "",
+      "dateTaken": "2025-07-01T09:18:23.832Z",
+      "tags": [
+        "留园"
+      ],
+      "originalUrl": "memories.vluv.space/photos/留园/留园3.heic",
+      "thumbnailUrl": "/thumbnails/留园3.jpg",
+      "thumbHash": "1908060c8203ba86e09884543b9ba077537809",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/留园/留园3.heic",
+      "lastModified": "2025-12-04T13:50:44.000Z",
+      "size": 1042685,
+      "digest": "6dc8f274b3b1adbd6c771e5af15684b7a5f9f9014549a502fea1c2cf99e6e97a",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T17:18:23.832+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/667",
+        "FNumber": 2.4,
+        "ExposureProgram": "Program AE",
+        "ISO": 25,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 2.4,
+        "BrightnessValue": 8.94,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "7.0 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "69 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 2.4,
+        "ScaleFactor35efl": 9.9,
+        "ShutterSpeed": "1/667",
+        "LightValue": 13.9,
+        "GPSAltitude": 20,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.317869,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.588193,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 39,
+        "contrast": 51,
+        "shadowRatio": 0.51,
+        "highlightRatio": 0.18
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "留园廊",
+      "format": "HEIC",
+      "title": "留园廊",
+      "description": "",
+      "dateTaken": "2025-07-01T09:18:03.731Z",
+      "tags": [
+        "留园"
+      ],
+      "originalUrl": "memories.vluv.space/photos/留园/留园廊.heic",
+      "thumbnailUrl": "/thumbnails/留园廊.jpg",
+      "thumbHash": "97f80914828d44778b65759f896787180f1b57",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/留园/留园廊.heic",
+      "lastModified": "2025-12-04T13:50:46.000Z",
+      "size": 2789296,
+      "digest": "497b9c1e7fa2ac1d975339bb8ddad56ff30288b18feb4ae59f382c39cd0f4fce",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T17:18:03.731+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/208",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 25,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 6.48,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.4,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/208",
+        "LightValue": 11.4,
+        "GPSAltitude": 20,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.317869,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.588193,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 38,
+        "contrast": 42,
+        "shadowRatio": 0.48,
+        "highlightRatio": 0.11
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "留园倒影",
+      "format": "HEIC",
+      "title": "留园倒影",
+      "description": "",
+      "dateTaken": "2025-07-01T09:15:18.893Z",
+      "tags": [
+        "留园"
+      ],
+      "originalUrl": "memories.vluv.space/photos/留园/留园倒影.heic",
+      "thumbnailUrl": "/thumbnails/留园倒影.jpg",
+      "thumbHash": "99e70d24828b6b787067697a6667659f06f10c",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/留园/留园倒影.heic",
+      "lastModified": "2025-12-04T13:50:44.000Z",
+      "size": 764306,
+      "digest": "5d00b3544cd61718750d28a56935fee676a0596d81ba22cf036b78c47e4390d4",
+      "exif": {
+        "DateTimeOriginal": "2025-07-01T17:15:18.893+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS4BYF1",
+        "ExposureTime": "1/110",
+        "FNumber": 2.4,
+        "ExposureProgram": "Program AE",
+        "ISO": 25,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 2.4,
+        "BrightnessValue": 6.3,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.4,
+        "Flash": "No Flash",
+        "FocalLength": "7.0 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "69 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 2.4,
+        "ScaleFactor35efl": 9.9,
+        "ShutterSpeed": "1/110",
+        "LightValue": 11.3,
+        "GPSAltitude": 22,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.317737,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.587965,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 40,
+        "contrast": 44,
+        "shadowRatio": 0.56,
+        "highlightRatio": 0.21
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "20250525_沧浪亭外2",
+      "format": "HEIC",
+      "title": "20250525 沧浪亭外2",
+      "description": "",
+      "dateTaken": "2025-05-25T07:51:15.823Z",
+      "tags": [
+        "沧浪亭"
+      ],
+      "originalUrl": "memories.vluv.space/photos/沧浪亭/20250525_沧浪亭外2.heic",
+      "thumbnailUrl": "/thumbnails/20250525_沧浪亭外2.jpg",
+      "thumbHash": "16f80d14827777886f7688777886bf78065568",
+      "width": 3320,
+      "height": 1968,
+      "aspectRatio": 1.6869918699186992,
+      "s3Key": "photos/沧浪亭/20250525_沧浪亭外2.heic",
+      "lastModified": "2025-12-04T13:50:48.000Z",
+      "size": 1183773,
+      "digest": "6db6648d185aa33e77c42418b6ec6a794a777dfd696ee3ea45adb69d35d69a60",
+      "exif": {
+        "DateTimeOriginal": "2025-05-25T15:51:15.823+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCU4BYDA",
+        "ExposureTime": "1/476",
+        "FNumber": 2.4,
+        "ExposureProgram": "Program AE",
+        "ISO": 25,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 2.4,
+        "BrightnessValue": 8.32,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "7.0 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "69 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 2.4,
+        "ScaleFactor35efl": 9.9,
+        "ShutterSpeed": "1/476",
+        "LightValue": 13.4,
+        "GPSAltitude": 16,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.297317,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.621623,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 36,
+        "contrast": 38,
+        "shadowRatio": 0.51,
+        "highlightRatio": 0.08
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "20250525_沧浪亭外",
+      "format": "HEIC",
+      "title": "20250525 沧浪亭外",
+      "description": "",
+      "dateTaken": "2025-05-25T07:50:54.722Z",
+      "tags": [
+        "沧浪亭"
+      ],
+      "originalUrl": "memories.vluv.space/photos/沧浪亭/20250525_沧浪亭外.heic",
+      "thumbnailUrl": "/thumbnails/20250525_沧浪亭外.jpg",
+      "thumbHash": "58e8050c829e72987f7a688d778dcf949a0666",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/沧浪亭/20250525_沧浪亭外.heic",
+      "lastModified": "2025-12-04T13:50:47.000Z",
+      "size": 2258212,
+      "digest": "55a375228ee9887c2893fe9baa2cd600e17d01b5128685ce5fbf05bf66d5e712",
+      "exif": {
+        "DateTimeOriginal": "2025-05-25T15:50:54.722+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCU4BYDA",
+        "ExposureTime": "1/294",
+        "FNumber": 2.4,
+        "ExposureProgram": "Program AE",
+        "ISO": 25,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 2.4,
+        "BrightnessValue": 7.57,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "7.0 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "69 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 2.4,
+        "ScaleFactor35efl": 9.9,
+        "ShutterSpeed": "1/294",
+        "LightValue": 12.7,
+        "GPSAltitude": 18,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.297319,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.621677,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 39,
+        "contrast": 33,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.08
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "沧浪亭-花窗2",
+      "format": "HEIC",
+      "title": "沧浪亭 花窗2",
+      "description": "",
+      "dateTaken": "2025-05-25T07:45:06.772Z",
+      "tags": [
+        "沧浪亭"
+      ],
+      "originalUrl": "memories.vluv.space/photos/沧浪亭/沧浪亭-花窗2.heic",
+      "thumbnailUrl": "/thumbnails/沧浪亭-花窗2.jpg",
+      "thumbHash": "5608160c826f88979988788678779f9ef7d85a",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/沧浪亭/沧浪亭-花窗2.heic",
+      "lastModified": "2025-12-04T13:50:49.000Z",
+      "size": 632777,
+      "digest": "a41160dbb005cc0462aff0c3a11823bb7704334452a163e1d904a54d1d69987d",
+      "exif": {
+        "DateTimeOriginal": "2025-05-25T15:45:06.772+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCU4BYDA",
+        "ExposureTime": "1/2000",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 25,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 9.58,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/2000",
+        "LightValue": 14.7,
+        "GPSAltitude": 31,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.296905,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.621021,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 35,
+        "contrast": 56,
+        "shadowRatio": 0.5,
+        "highlightRatio": 0.21
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "沧浪亭-树",
+      "format": "HEIC",
+      "title": "沧浪亭 树",
+      "description": "",
+      "dateTaken": "2025-05-25T05:59:36.269Z",
+      "tags": [
+        "沧浪亭"
+      ],
+      "originalUrl": "memories.vluv.space/photos/沧浪亭/沧浪亭-树.heic",
+      "thumbnailUrl": "/thumbnails/沧浪亭-树.jpg",
+      "thumbHash": "5ef8090c8260b8997b886666768a7abff89848",
+      "width": 4000,
+      "height": 2252,
+      "aspectRatio": 1.7761989342806395,
+      "s3Key": "photos/沧浪亭/沧浪亭-树.heic",
+      "lastModified": "2025-12-04T13:50:50.000Z",
+      "size": 2251877,
+      "digest": "1bfb91d22932f9d1cd0dd2ff2e76ea01069bec5038aff9f2402a57282dd399fc",
+      "exif": {
+        "DateTimeOriginal": "2025-05-25T13:59:36.269+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 2252,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCU4BYDA",
+        "ExposureTime": "1/560",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 25,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 7.78,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/560",
+        "LightValue": 12.8,
+        "GPSAltitude": 13,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.297062,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.621564,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 41,
+        "shadowRatio": 0.25,
+        "highlightRatio": 0.25
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "沧浪亭花窗1",
+      "format": "HEIC",
+      "title": "沧浪亭花窗1",
+      "description": "",
+      "dateTaken": "2025-05-25T05:38:23.855Z",
+      "tags": [
+        "沧浪亭"
+      ],
+      "originalUrl": "memories.vluv.space/photos/沧浪亭/沧浪亭花窗1.heic",
+      "thumbnailUrl": "/thumbnails/沧浪亭花窗1.jpg",
+      "thumbHash": "9ff8010c8078c0b8a78654a38a620dae075da4",
+      "width": 8160,
+      "height": 4592,
+      "aspectRatio": 1.7770034843205575,
+      "s3Key": "photos/沧浪亭/沧浪亭花窗1.heic",
+      "lastModified": "2025-12-04T13:50:48.000Z",
+      "size": 4622596,
+      "digest": "844748843131e2a8aad4b271c50d9c4206a8f34eb2f0f9e85b313763c1d51d34",
+      "exif": {
+        "DateTimeOriginal": "2025-05-25T13:38:23.855+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 8160,
+        "ImageHeight": 4592,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "ExposureTime": "1/100",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 25,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 5.22,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/100",
+        "LightValue": 10.3,
+        "GPSAltitude": 10.5841674,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 31.296605,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.621495,
+        "GPSLongitudeRef": "E",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/heic",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 0,
+              "Mime": "image/heic",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 28,
+        "shadowRatio": 0.1,
+        "highlightRatio": 0.12
+      },
+      "location": null,
+      "isHDR": false
+    },
+    {
+      "id": "20240729_191924",
+      "format": "JPG",
+      "title": "20240729 191924",
+      "description": "",
+      "dateTaken": "2024-07-29T11:19:24.556Z",
+      "tags": [],
+      "originalUrl": "https://memory.s3.bitiful.net/photos/20240729_191924.jpg",
+      "thumbnailUrl": "/thumbnails/20240729_191924.jpg",
+      "thumbHash": "e7c5091d827878787f7888758877788886804a0888",
+      "width": 4000,
+      "height": 3000,
+      "aspectRatio": 1.3333333333333333,
+      "s3Key": "photos/20240729_191924.jpg",
+      "lastModified": "2025-12-04T12:14:40.000Z",
+      "size": 881838,
+      "digest": "21589a65f951c9f01701d92563ef4c3867fe6c65625b6547f0e1c4250aab640a",
+      "exif": {
+        "DateTimeOriginal": "2024-07-29T19:19:24.556+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "ImageWidth": 4000,
+        "ImageHeight": 3000,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "samsung",
+        "Model": "Galaxy S24+",
+        "Software": "S9260ZCS3AXFE",
+        "ExposureTime": "1/100",
+        "FNumber": 1.8,
+        "ExposureProgram": "Program AE",
+        "ISO": 500,
+        "ShutterSpeedValue": 1,
+        "ApertureValue": 1.8,
+        "BrightnessValue": 1.03,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.8,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "5.4 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "23 mm",
+        "SceneCaptureType": "Standard",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto",
+        "Aperture": 1.8,
+        "ScaleFactor35efl": 4.3,
+        "ShutterSpeed": "1/100",
+        "LightValue": 6,
+        "GPSAltitude": 21,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 35.786109,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 120.040416,
+        "GPSLongitudeRef": "E",
+        "MPImageType": "Undefined",
+        "ContainerDirectory": [
+          {
+            "Item": {
+              "Mime": "image/jpeg",
+              "Semantic": "Primary"
+            }
+          },
+          {
+            "Item": {
+              "Length": 20428,
+              "Mime": "image/jpeg",
+              "Semantic": "GainMap"
+            }
+          }
+        ]
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 57,
+        "contrast": 27,
+        "shadowRatio": 0.09,
+        "highlightRatio": 0.35
+      },
+      "location": null,
+      "isHDR": true
+    }
+  ],
+  "cameras": [
+    {
+      "make": "samsung",
+      "model": "Galaxy S24+",
+      "displayName": "samsung Galaxy S24+"
+    }
+  ],
+  "lenses": []
+}
