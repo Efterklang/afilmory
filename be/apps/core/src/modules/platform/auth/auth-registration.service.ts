@@ -308,7 +308,7 @@ export class AuthRegistrationService {
 
     const response = new Response(JSON.stringify({ tenant: updatedTenant }), {
       status: 200,
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json; charset=utf-8' },
     })
 
     return {

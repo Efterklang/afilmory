@@ -1,15 +1,17 @@
 import { Button, Modal, Prompt, Switch } from '@afilmory/ui'
 import { Spring } from '@afilmory/utils'
-import { DynamicIcon } from 'lucide-react/dynamic'
+import { ShieldCheck } from 'lucide-react'
 import { m } from 'motion/react'
 import { startTransition, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useNavigate } from 'react-router'
+import { toast } from 'sonner'
 
 import { useSetPhotoSyncAutoRun } from '~/atoms/photo-sync'
 import { LinearBorderPanel } from '~/components/common/LinearBorderPanel'
 import { MainPageLayout, useMainPageLayout } from '~/components/layouts/MainPageLayout'
 import { useBlock } from '~/hooks/useBlock'
+import { getRequestErrorMessage } from '~/lib/errors'
 import { useManagedStoragePlansQuery } from '~/modules/storage-plans'
 
 import { MANAGED_STORAGE_ACTIVE_ID, storageProvidersI18nKeys } from '../constants'
@@ -187,6 +189,10 @@ export function StorageProvidersManager() {
             })
           }
         },
+        onError: (error) => {
+          const message = getRequestErrorMessage(error, t('errors.request.generic'))
+          toast.error(t(storageProvidersI18nKeys.status.error, { reason: message }))
+        },
       },
     )
   }
@@ -356,7 +362,7 @@ export function StorageProvidersManager() {
           <div className="flex items-start gap-3 sm:gap-4">
             <div className="shrink-0">
               <div className="bg-accent/10 inline-flex h-8 w-8 items-center justify-center rounded-lg sm:h-10 sm:w-10">
-                <DynamicIcon name="shield-check" className="h-4 w-4 text-accent sm:h-5 sm:w-5" />
+                <ShieldCheck className="h-4 w-4 text-accent sm:h-5 sm:w-5" />
               </div>
             </div>
             <div className="flex-1 space-y-1.5 sm:space-y-2">

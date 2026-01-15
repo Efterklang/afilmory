@@ -31,8 +31,6 @@ const logger = createLogger('Auth')
 
 @injectable()
 export class AuthProvider implements OnModuleInit {
-  private instances = new Map<string, Promise<BetterAuthInstance>>()
-
   constructor(
     private readonly config: AuthConfig,
     private readonly drizzleProvider: DrizzleProvider,
@@ -64,21 +62,6 @@ export class AuthProvider implements OnModuleInit {
     } catch {
       return null
     }
-  }
-
-  private buildCookiePrefix(tenantSlug: string | null): string {
-    if (!tenantSlug) {
-      return 'better-auth'
-    }
-
-    const sanitizedSlug = tenantSlug
-      .trim()
-      .toLowerCase()
-      .replaceAll(/[^a-z0-9_-]/g, '-')
-      .replaceAll(/-+/g, '-')
-      .replaceAll(/^-|-$/g, '')
-
-    return sanitizedSlug ? `better-auth-${sanitizedSlug}` : 'better-auth'
   }
 
   private async resolveTenantIdOrProvision(tenantSlug: string | null): Promise<string | null> {
@@ -119,37 +102,7 @@ export class AuthProvider implements OnModuleInit {
     }
   }
 
-  private determineProtocol(host: string, provided: string | null): string {
-    if (provided && (provided === 'http' || provided === 'https')) {
-      return provided
-    }
-    if (host.includes('localhost') || host.startsWith('127.') || host.startsWith('0.0.0.0')) {
-      return 'http'
-    }
-    return 'https'
-  }
-
-  private applyTenantSlugToHost(host: string, fallbackHost: string, tenantSlug: string | null): string {
-    if (!tenantSlug) {
-      return host
-    }
-
-    const [hostName, hostPort] = host.split(':') as [string, string?]
-    if (hostName.startsWith(`${tenantSlug}.`)) {
-      return host
-    }
-
-    const [fallbackName, fallbackPort] = fallbackHost.split(':') as [string, string?]
-    if (hostName !== fallbackName) {
-      return host
-    }
-
-    const portSegment = hostPort ?? fallbackPort
-    return portSegment ? `${tenantSlug}.${fallbackName}:${portSegment}` : `${tenantSlug}.${fallbackName}`
-  }
-
   private buildBetterAuthProvidersForHost(
-    tenantSlug: string | null,
     providers: SocialProvidersConfig,
     oauthGatewayUrl: string | null,
   ): Record<string, { clientId: string; clientSecret: string; redirectUri?: string }> {
@@ -205,19 +158,21 @@ export class AuthProvider implements OnModuleInit {
   private async createAuthForEndpoint(
     tenantSlug: string | null,
     options: AuthModuleOptions,
+    explicitTenantId?: string | null,
   ): Promise<BetterAuthInstance> {
     const db = this.drizzleProvider.getDb()
-    const socialProviders = this.buildBetterAuthProvidersForHost(
-      tenantSlug,
-      options.socialProviders,
-      options.oauthGatewayUrl,
-    )
+    const socialProviders = this.buildBetterAuthProvidersForHost(options.socialProviders, options.oauthGatewayUrl)
 
     // Use tenant-aware adapter for multi-tenant user/account isolation
     // This ensures that user lookups (by email) and account lookups (by provider)
     // are scoped to the current tenant, allowing the same email/social account
     // to exist as different users in different tenants
-    const ensureTenantId = async () => await this.resolveTenantIdOrProvision(tenantSlug)
+    const ensureTenantId = async () => {
+      if (explicitTenantId) {
+        return explicitTenantId
+      }
+      return await this.resolveTenantIdOrProvision(tenantSlug)
+    }
 
     return betterAuth({
       database: tenantAwareDrizzleAdapter(
@@ -260,7 +215,7 @@ export class AuthProvider implements OnModuleInit {
         user: {
           create: {
             before: async (user) => {
-              const tenantId = await ensureTenantId()
+              const tenantId = explicitTenantId ?? (await ensureTenantId())
               if (!tenantId) {
                 throw new APIError('BAD_REQUEST', {
                   message: 'Missing tenant context during account creation.',
@@ -280,7 +235,7 @@ export class AuthProvider implements OnModuleInit {
         session: {
           create: {
             before: async (session) => {
-              const tenantId = this.resolveTenantIdFromContext()
+              const tenantId = explicitTenantId ?? this.resolveTenantIdFromContext()
               const fallbackTenantId = tenantId ?? session.tenantId ?? (await ensureTenantId())
               return {
                 data: {
@@ -294,7 +249,7 @@ export class AuthProvider implements OnModuleInit {
         account: {
           create: {
             before: async (account) => {
-              const tenantId = this.resolveTenantIdFromContext()
+              const tenantId = explicitTenantId ?? this.resolveTenantIdFromContext()
               const resolvedTenantId = tenantId ?? (await ensureTenantId())
               if (!resolvedTenantId) {
                 return { data: account }
@@ -321,32 +276,36 @@ export class AuthProvider implements OnModuleInit {
           defaultRole: 'user',
           defaultBanReason: 'Spamming',
         }),
-        creem({
-          apiKey: env.CREEM_API_KEY,
-          webhookSecret: env.CREEM_WEBHOOK_SECRET,
-          persistSubscriptions: true,
-          testMode: env.NODE_ENV !== 'production',
-          onCheckoutCompleted: async (data) => {
-            await this.handleCreemWebhook({
-              event: data.webhookEventType,
-              metadata: this.mergeMetadata(data.metadata, data.subscription?.metadata),
-              status: data.subscription?.status ?? null,
-              defaultGrant: true,
-            })
-          },
-          // onRefundCreated: async (data: FlatRefundCreated) => {
-          //   await this.handleCreemRefundCreated(data)
-          // },
-          onSubscriptionCanceled: async (data) => {
-            await this.handleCreemSubscriptionEvent(data, true)
-          },
-          onSubscriptionExpired: async (data) => {
-            await this.handleCreemSubscriptionEvent(data, true)
-          },
-          onSubscriptionUpdate: async (data) => {
-            await this.handleCreemSubscriptionEvent(data, false)
-          },
-        }),
+        ...(env.CREEM_API_KEY && env.CREEM_WEBHOOK_SECRET
+          ? [
+              creem({
+                apiKey: env.CREEM_API_KEY,
+                webhookSecret: env.CREEM_WEBHOOK_SECRET,
+                persistSubscriptions: true,
+                testMode: env.NODE_ENV !== 'production',
+                onCheckoutCompleted: async (data) => {
+                  await this.handleCreemWebhook({
+                    event: data.webhookEventType,
+                    metadata: this.mergeMetadata(data.metadata, data.subscription?.metadata),
+                    status: data.subscription?.status ?? null,
+                    defaultGrant: true,
+                  })
+                },
+                // onRefundCreated: async (data: FlatRefundCreated) => {
+                //   await this.handleCreemRefundCreated(data)
+                // },
+                onSubscriptionCanceled: async (data) => {
+                  await this.handleCreemSubscriptionEvent(data, true)
+                },
+                onSubscriptionExpired: async (data) => {
+                  await this.handleCreemSubscriptionEvent(data, true)
+                },
+                onSubscriptionUpdate: async (data) => {
+                  await this.handleCreemSubscriptionEvent(data, false)
+                },
+              }),
+            ]
+          : []),
       ],
       hooks: {
         before: createAuthMiddleware(async (ctx) => {
@@ -379,6 +338,12 @@ export class AuthProvider implements OnModuleInit {
     const tenantSlug = tenantSlugFromContext ?? extractTenantSlugFromHost(requestedHost, options.baseDomain)
     const instancePromise = this.createAuthForEndpoint(tenantSlug, options)
     return await instancePromise
+  }
+
+  async getAuthForTenant(tenant: { id: string; slug?: string | null }): Promise<BetterAuthInstance> {
+    const options = await this.config.getOptions()
+    const tenantSlug = tenant.slug ?? null
+    return await this.createAuthForEndpoint(tenantSlug, options, tenant.id)
   }
 
   private computeOptionsSignature(options: AuthModuleOptions): string {

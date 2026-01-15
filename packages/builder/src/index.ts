@@ -17,6 +17,8 @@ export type { GeocodingPluginOptions } from './plugins/geocoding.js'
 export { default as geocodingPlugin } from './plugins/geocoding.js'
 export type { GitHubRepoSyncPluginOptions } from './plugins/github-repo-sync.js'
 export { createGitHubRepoSyncPlugin, default as githubRepoSyncPlugin } from './plugins/github-repo-sync.js'
+export type { OgImagePluginOptions } from './plugins/og-image-storage/index.js'
+export { default as ogImagePlugin } from './plugins/og-image-storage/index.js'
 export type { B2StoragePluginOptions } from './plugins/storage/b2.js'
 export { default as b2StoragePlugin } from './plugins/storage/b2.js'
 export type { EagleStoragePluginOptions } from './plugins/storage/eagle.js'
@@ -55,9 +57,16 @@ export { LOCAL_STORAGE_PROVIDERS, REMOTE_STORAGE_PROVIDERS } from './storage/ind
 export { StorageFactory, StorageManager } from './storage/index.js'
 export type { B2Config, ManagedStorageConfig, S3CompatibleConfig } from './storage/interfaces.js'
 export type { BuilderConfig, BuilderConfigInput } from './types/config.js'
-export type { AfilmoryManifest, CameraInfo, LensInfo } from './types/manifest.js'
-export type { FujiRecipe, PhotoManifestItem, PickedExif, ToneAnalysis } from './types/photo.js'
 export type { S3ObjectLike } from './types/s3.js'
+export type {
+  AfilmoryManifest,
+  CameraInfo,
+  FujiRecipe,
+  LensInfo,
+  PhotoManifestItem,
+  PickedExif,
+  ToneAnalysis,
+} from '@afilmory/typing'
 
 ///// Mirgation
 export { migrateManifest } from './manifest/migrate.js'

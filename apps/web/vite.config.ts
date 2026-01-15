@@ -1,6 +1,6 @@
 import { execSync } from 'node:child_process'
 import { rmSync } from 'node:fs'
-import path from 'node:path'
+import path, { resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 import tailwindcss from '@tailwindcss/vite'
@@ -13,6 +13,7 @@ import { analyzer } from 'vite-bundle-analyzer'
 import { checker } from 'vite-plugin-checker'
 import { createHtmlPlugin } from 'vite-plugin-html'
 import { VitePWA } from 'vite-plugin-pwa'
+import { routeBuilderPlugin } from 'vite-plugin-route-builder'
 import tsconfigPaths from 'vite-tsconfig-paths'
 
 import PKG from '../../package.json'
@@ -49,11 +50,20 @@ const ReactCompilerConfig = {
   /* ... */
 }
 
+const ROOT = fileURLToPath(new URL('./', import.meta.url))
+const routeGenPlugins: PluginOption[] = [
+  routeBuilderPlugin({
+    pagePattern: `${resolve(ROOT, './src/pages')}/**/*.tsx`,
+    outputPath: `${resolve(ROOT, './src/generated-routes.ts')}`,
+    enableInDev: true,
+
+    segmentGroupOrder: ['main'],
+  }),
+]
 const staticWebBuildPlugins: PluginOption[] = [
   manifestInjectPlugin(),
   siteConfigInjectPlugin(),
   photosStaticPlugin(),
-
   VitePWA({
     base: '/',
     scope: '/',
@@ -194,6 +204,7 @@ export default defineConfig(() => {
         root: __dirname,
       }),
 
+      ...routeGenPlugins,
       createDependencyChunksPlugin([
         ['heic-to'],
         ['react', 'react-dom'],
