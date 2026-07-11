@@ -1,8 +1,11 @@
 import { RootPortal, RootPortalProvider } from '@afilmory/ui'
 import clsx from 'clsx'
+import { useAtomValue } from 'jotai'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { RemoveScroll } from 'react-remove-scroll'
 
+import { isHydrationEnded } from '~/atoms/hydration'
+import { setViewer, viewerAtom } from '~/atoms/viewer'
 import { NotFound } from '~/components/common/NotFound'
 import { useContextPhotos, usePhotoViewer } from '~/hooks/usePhotoViewer'
 import { useTitle } from '~/hooks/useTitle'
@@ -11,7 +14,9 @@ import { PhotoViewer } from '~/modules/viewer'
 
 export const Component = () => {
   const photoViewer = usePhotoViewer()
+  const viewerState = useAtomValue(viewerAtom)
   const photos = useContextPhotos()
+  const [disableEntryTransition] = useState(() => !isHydrationEnded())
 
   const [ref, setRef] = useState<HTMLElement | null>(null)
   const rootPortalValue = useMemo(
@@ -53,14 +58,42 @@ export const Component = () => {
       // Resetting it before navigation would momentarily flip isOpen back to true
       // (the URL still has the photoId), causing the backdrop to flash.
       closeViewerRef.current()
-    } else {
+    }
+    else {
       setIsClosing(false)
     }
   }, [])
 
   useEffect(() => {
+    if (!photoViewer.isOpen || isClosing) {
+      return
+    }
+    if (viewerState.pendingCloseInstanceId == null) {
+      return
+    }
+    if (viewerState.pendingCloseInstanceId !== viewerState.openInstanceId) {
+      return
+    }
+
+    setViewer((prev) => {
+      if (prev.pendingCloseInstanceId !== viewerState.pendingCloseInstanceId) {
+        return prev
+      }
+
+      return {
+        ...prev,
+        pendingCloseInstanceId: null,
+      }
+    })
+
+    handleClose()
+  }, [handleClose, isClosing, photoViewer.isOpen, viewerState.openInstanceId, viewerState.pendingCloseInstanceId])
+
+  useEffect(() => {
     const current = photos[photoViewer.currentIndex]
-    if (!current) return
+    if (!current) {
+      return
+    }
 
     let isCancelled = false
 
@@ -85,8 +118,11 @@ export const Component = () => {
 
           setAccentColor(color ?? null)
         }
-      } catch {
-        if (!isCancelled) setAccentColor(null)
+      }
+      catch {
+        if (!isCancelled) {
+          setAccentColor(null)
+        }
       }
     })()
 
@@ -118,6 +154,7 @@ export const Component = () => {
             currentIndex={photoViewer.currentIndex}
             isOpen={isOpen}
             triggerElement={photoViewer.triggerElement}
+            disableEntryTransition={disableEntryTransition}
             onClose={handleClose}
             onIndexChange={photoViewer.goToIndex}
             onExitComplete={handleExitComplete}
